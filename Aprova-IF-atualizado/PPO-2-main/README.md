@@ -14,6 +14,8 @@ Na pasta raiz do projeto:
 ```bash
 bun install
 bun run dev
+se nao funcionar o bun run dev, use bun run server.ts
+
 ```
 
 Abra http://localhost:3000 no navegador. As páginas de cadastro e login ficam em `/cadastro` e `/login`.
