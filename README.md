@@ -75,7 +75,7 @@ Não é necessário instalar um programa para visualizar ou editar o banco de da
 Na pasta principal, execute:
 
 ```bash
-bun run server.ts
+bun run Aprova-IF-atualizado/PPO-2-main/aprova-if/src/server.ts
 ```
 
 Se o arquivo `server.ts` estiver dentro da pasta `src`, execute:
