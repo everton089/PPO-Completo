@@ -6,6 +6,7 @@ Aplicação web de simulados para preparação para o ingresso no Instituto Fede
 
 - [Bun](https://bun.sh/) instalado.
 - Node não é necessário para executar o servidor; o projeto usa `bun:sqlite` e `Bun.password`.
+- Baixxe a extenção Sqlite3 view
 
 ## Como executar
 
